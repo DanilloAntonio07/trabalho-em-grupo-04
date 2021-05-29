@@ -106,7 +106,6 @@ i {
     background-image: url(./img/imagem1.png);
     background-position: center;
     background-size: cover;
-    justify-content: end;
     width: 45%;
     height: 100%;
     position: fixed;
@@ -359,6 +358,15 @@ i {
 
 .clientefoto3 {
     background-image: url(./img/cliente3.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.clientefoto4 {
+    background-image: url(./img/toguro.jpg);
     background-position: center;
     background-size: cover;
     width: 50px;
